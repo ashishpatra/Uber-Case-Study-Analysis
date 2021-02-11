@@ -23,8 +23,8 @@ analysis, you should be able to present to the client the root cause(s) and poss
 of the problem(s) and recommend ways to improve them.</p>
 <br>There are six attributes associated with each request made by a customer:
 <br>1. Request id: A unique identifier of the request
-<br>2. Time of request: The date and time at which the customer made the trip request
-<br>3. Drop-off time: The drop-off date and time, in case the trip was completed
+2. Time of request: The date and time at which the customer made the trip request
+3. Drop-off time: The drop-off date and time, in case the trip was completed
 <br>4. Pick-up point: The point from which the request was made
 <br>5. Driver id: The unique identification number of the driver
 <br>6. Status of the request: The final status of the trip, that can be either completed, cancelled by the driver or no cars available
