@@ -33,7 +33,7 @@ airport / airport to city etc.) and the time slots (early mornings, late evening
 <br>2. Find out the gap between supply and demand and show the same using plots.
 <li>a. Find the time slots when the highest gap exists</li>
 <li>b. Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots</li>
-<br>3. What do you think is the reason for this issue for the supply-demand gap? Write the answer in less than 100 words. You may accompany the write-up with plot(s).
+3. What do you think is the reason for this issue for the supply-demand gap? Write the answer in less than 100 words. You may accompany the write-up with plot(s).
 <br>4. Recommend some ways to resolve the supply-demand gap.
 
 <br>IDE : jupyter notebook
