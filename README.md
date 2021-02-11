@@ -27,6 +27,7 @@ of the problem(s) and recommend ways to improve them.</p>
 <br>5. Driver id: The unique identification number of the driver
 <br>6. Status of the request: The final status of the trip, that can be either completed, cancelled by the driver or no cars available
 <br><b>Note: For this assignment, only the trips to and from the airport are being considered.</b>
+<br>
 <br><b>Results Expected</b>
 <br>1. Visually identify the most pressing problems for Uber.
 <br>Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to
