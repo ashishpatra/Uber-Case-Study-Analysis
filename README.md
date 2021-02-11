@@ -29,8 +29,8 @@ of the problem(s) and recommend ways to improve them.</p>
 <br><b>Note: For this assignment, only the trips to and from the airport are being considered.</b>
 <br><b>Results Expected</b>
 <br>1. Visually identify the most pressing problems for Uber.
-<p>Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to
-airport / airport to city etc.) and the time slots (early mornings, late evenings etc.) using plots.</p>
+<br>Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to
+airport / airport to city etc.) and the time slots (early mornings, late evenings etc.) using plots.
 <br>2. Find out the gap between supply and demand and show the same using plots.
 <li>a. Find the time slots when the highest gap exists</li>
 <li>b. Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots</li>
