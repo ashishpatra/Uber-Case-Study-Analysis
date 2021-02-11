@@ -12,13 +12,11 @@ of Uber. If drivers cancel the request of riders or if cars are unavailable, Ube
 revenue.
 As an analyst, you decide to address the problem Uber is facing - driver cancellation and
 non-availability of cars leading to loss of potential revenue.</p>
-<br>
 <b>Business Objectives</b>
 <p>The aim of analysis is to identify the root cause of the problem (i.e. cancellation and
 non-availability of cars) and recommend ways to improve the situation. As a result of your
 analysis, you should be able to present to the client the root cause(s) and possible hypotheses
 of the problem(s) and recommend ways to improve them.</p>
-<br>
 <br>There are six attributes associated with each request made by a customer:
 <br>1. Request id: A unique identifier of the request
 <br>2. Time of request: The date and time at which the customer made the trip request
