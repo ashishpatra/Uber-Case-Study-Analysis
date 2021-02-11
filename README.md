@@ -12,7 +12,7 @@ of Uber. If drivers cancel the request of riders or if cars are unavailable, Ube
 revenue.
 As an analyst, you decide to address the problem Uber is facing - driver cancellation and
 non-availability of cars leading to loss of potential revenue.</p>
-<b>Business Objectives</b>
+<b>Business Objectives :</b>
 <p>The aim of analysis is to identify the root cause of the problem (i.e. cancellation and
 non-availability of cars) and recommend ways to improve the situation. As a result of your
 analysis, you should be able to present to the client the root cause(s) and possible hypotheses
@@ -26,7 +26,7 @@ There are six attributes associated with each request made by a customer:
 <br>6. Status of the request: The final status of the trip, that can be either completed, cancelled by the driver or no cars available
 <br><b>Note: For this assignment, only the trips to and from the airport are being considered.</b>
 <br>
-<br><b>Results Expected</b>
+<br><b>Results Expected :</b>
 <br>1. Visually identify the most pressing problems for Uber.
 <br>Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to
 airport / airport to city etc.) and the time slots (early mornings, late evenings etc.) using plots.
