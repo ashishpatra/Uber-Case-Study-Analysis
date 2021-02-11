@@ -1,11 +1,8 @@
 # Uber-Case-Study-Analysis ( A Data Science Project )
-<br>
 <br><b>Introduction</b>
-<br>
-<p>This data set is a masked data set which is similar to what data analysts at Uber handle. Solving
+<br><p>This data set is a masked data set which is similar to what data analysts at Uber handle. Solving
 this assignment will give you an idea about how problems are systematically solved using EDA
 and data visualisation.</p>
-<br>
 <br><b>Business Understanding</b>
 <br>
 <p>You may have some experience of travelling to and from the airport. Have you ever used Uber
@@ -24,7 +21,6 @@ non-availability of cars leading to loss of potential revenue.</p>
 non-availability of cars) and recommend ways to improve the situation. As a result of your
 analysis, you should be able to present to the client the root cause(s) and possible hypotheses
 of the problem(s) and recommend ways to improve them.</p>
-
 <br>There are six attributes associated with each request made by a customer:
 <br>1. Request id: A unique identifier of the request
 <br>2. Time of request: The date and time at which the customer made the trip request
@@ -35,11 +31,11 @@ of the problem(s) and recommend ways to improve them.</p>
 <br><b>Note: For this assignment, only the trips to and from the airport are being considered.</b>
 <br><b>Results Expected</b>
 <br>1. Visually identify the most pressing problems for Uber.
-<br><p>Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to
+<p>Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to
 airport / airport to city etc.) and the time slots (early mornings, late evenings etc.) using plots.</p>
 <br>2. Find out the gap between supply and demand and show the same using plots.
-<br><li>a. Find the time slots when the highest gap exists</li>
-<br><li>b. Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots<li>
+<li>a. Find the time slots when the highest gap exists</li>
+<li>b. Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots<li>
 <br>3. What do you think is the reason for this issue for the supply-demand gap? Write the answer in less than 100 words. You may accompany the write-up with plot(s).
 <br>4. Recommend some ways to resolve the supply-demand gap.
 
