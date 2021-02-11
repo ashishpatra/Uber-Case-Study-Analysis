@@ -1,9 +1,9 @@
 # Uber-Case-Study-Analysis ( A Data Science Project )
-<b>Introduction</b>
+<b>Introduction :</b>
 <p>This data set is a masked data set which is similar to what data analysts at Uber handle. Solving
 this assignment will give you an idea about how problems are systematically solved using EDA
 and data visualisation.</p>
-<br><b>Business Understanding</b>
+<br><b>Business Understanding :</b>
 <p>You may have some experience of travelling to and from the airport. Have you ever used Uber
 or any other cab service for this travel? Did you at any time face the problem of cancellation by
 the driver or non-availability of cars?</p>
@@ -17,7 +17,7 @@ non-availability of cars leading to loss of potential revenue.</p>
 non-availability of cars) and recommend ways to improve the situation. As a result of your
 analysis, you should be able to present to the client the root cause(s) and possible hypotheses
 of the problem(s) and recommend ways to improve them.</p>
-<br>There are six attributes associated with each request made by a customer:
+There are six attributes associated with each request made by a customer:
 <br>1. Request id: A unique identifier of the request
 <br>2. Time of request: The date and time at which the customer made the trip request
 <br>3. Drop-off time: The drop-off date and time, in case the trip was completed
